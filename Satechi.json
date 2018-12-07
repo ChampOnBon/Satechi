@@ -1,0 +1,27 @@
+{
+	"D01":{
+		"debug":{
+			"version" : "3.3.6",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DO1/debug_DO1",
+			"description" : "APPLE TEST"	
+		},
+		"release":{
+			"version" : "3.3.6",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DO1/release_DO1",
+			"description" : ""	
+		},
+	},
+  
+  "D0E":{
+		"debug":{
+			"version" : "3.3.6",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DOE/debug_DOE",
+			"description" : "APPLE TEST"	
+		},
+		"release":{
+			"version" : "3.3.6",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DOE/release_DOE",
+			"description" : ""	
+		},
+	}
+} 
