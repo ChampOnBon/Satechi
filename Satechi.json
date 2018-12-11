@@ -1,5 +1,5 @@
 {
-	"D01":{
+	"DO1":{
 		"debug":{
 			"version" : "3.3.6",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DO1/debug_DO1",
@@ -12,7 +12,7 @@
 		},
 	},
   
-  "D0E":{
+  "DOE":{
 		"debug":{
 			"version" : "3.3.6",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DOE/debug_DOE",
