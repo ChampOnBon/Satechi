@@ -2,7 +2,7 @@
 	"DO1":{
 		"debug":{
 			"version" : "3.3.7",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DO1/debug_DO1",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DO1/DO1_3.3.6",
 			"description" : "APPLE TEST"	
 		},
 		"release":{
