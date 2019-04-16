@@ -14,13 +14,13 @@
   
   "DOE":{
 		"debug":{
-			"version" : "3.3.7",
+			"version" : "3.3.6",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DOE/debug_DOE",
 			"description" : "APPLE TEST"	
 		},
 		"release":{
-			"version" : "3.3.6",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DOE/release_DOE",
+			"version" : "3.3.7",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DOE/DOE_3.3.7",
 			"description" : ""	
 		},
 	}
