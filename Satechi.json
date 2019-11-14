@@ -23,5 +23,18 @@
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DOE/DOE_3.3.7",
 			"description" : ""	
 		},
+	},
+	
+  "SOE":{
+		"debug":{
+			"version" : "1.1.2",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/SOE/debug_SOE",
+			"description" : "APPLE TEST"	
+		},
+		"release":{
+			"version" : "1.1.2",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/SOE/SOE",
+			"description" : ""	
+		},
 	}
 } 
