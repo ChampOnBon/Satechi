@@ -27,13 +27,13 @@
 	
   "SOE":{
 		"debug":{
-			"version" : "1.1.3",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/SOE/SOE_1.1.3.bin",
+			"version" : "1.1.2",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/SOE/SOE_1.1.2.bin",
 			"description" : "APPLE TEST"	
 		},
 		"release":{
-			"version" : "1.1.3",
-			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/SOE/SOE_1.1.3.bin",
+			"version" : "1.1.2",
+			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/SOE/SOE_1.1.2.bin",
 			"description" : ""	
 		},
 	}
