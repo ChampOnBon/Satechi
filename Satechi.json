@@ -10,7 +10,7 @@
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DO1/DO1_3.3.6",
 			"description" : ""	
 		},
-		"release2":{
+		"release1":{
 			"version" : "4.0.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DO1/release_DO1.bin",
 			"description" : ""	
@@ -28,7 +28,7 @@
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DOE/DOE_3.3.7",
 			"description" : ""	
 		},
-	  	"release2":{
+	  	"release1":{
 			"version" : "4.0.1",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DOE/release_DOE.bin",
 			"description" : ""	
