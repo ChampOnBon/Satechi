@@ -18,7 +18,7 @@
 	},
   
   	"DOE":{
-		"debug":{
+		"release2":{
 			"version" : "4.1.4",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DOE/debug_DOE.bin",
 			"description" : "APPLE TEST"	
