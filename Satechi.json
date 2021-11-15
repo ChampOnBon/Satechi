@@ -1,7 +1,7 @@
 {
 	"DO1":{
 		"debug":{
-			"version" : "4.1.6",
+			"version" : "4.1.5",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DO1/debug_DO1.bin",
 			"description" : "APPLE TEST"	
 		},
@@ -19,7 +19,7 @@
   
   	"DOE":{
 		"debug":{
-			"version" : "4.1.6",
+			"version" : "4.1.5",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/DOE/debug_DOE.bin",
 			"description" : "APPLE TEST"	
 		},
