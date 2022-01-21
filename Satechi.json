@@ -37,7 +37,7 @@
 	
   	"SOE":{
 		"debug":{
-			"version" : "2.1.1",
+			"version" : "2.1.2",
 			"url" : "https://raw.githubusercontent.com/ChampOnBon/Satechi/master/SOE/debug_SOE.bin",
 			"description" : "APPLE TEST"	
 		},
